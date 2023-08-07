@@ -1,5 +1,3 @@
-# opencv
-Проверка телефона 2023
 # PhoneCheck
 
 ##### При помощи данного скрипта, вы сможете узнать информацию о номере телефона.
@@ -36,4 +34,3 @@ python pcheck.py
 ![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/master/win10.png)
 ![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/master/kali.png)
 ![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/master/termux.png)
-
